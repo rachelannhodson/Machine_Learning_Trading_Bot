@@ -1,6 +1,6 @@
 # Machine_Learning_Trading_Bot (README.md)
 
-This is a Jupyter Lab notebook file. This `.ipynb` file utilizes Python to read a `.csv` file and then uses deep neural network learning, through tensorflow and keras, to run machine learning models. These models attempt to get as close to 1.0 accuracy in predicting future outcomes. A data analyst could use these models to test specific target data in an attempt to determine future outcomes and thereby to create company policies in order to promote desirable outcomes. A data analyst would have to use these models and make lots of trial-and-error type changes to the code in order to get as close to 1.0 accuracy as their company is comfortable with. 
+This is a Jupyter Lab notebook file. This `.ipynb` file utilizes Python to read a `.csv` file and then uses a machine learning algorithm, through scikit-learn, to . These models attempt to get as close to 1.0 accuracy in predicting future outcomes. A data analyst could use these models to test specific target data in an attempt to determine future outcomes and thereby to create company policies in order to promote desirable outcomes. A data analyst would have to use these models and make lots of trial-and-error type changes to the code in order to get as close to 1.0 accuracy as their company is comfortable with. 
 
 ---
 
